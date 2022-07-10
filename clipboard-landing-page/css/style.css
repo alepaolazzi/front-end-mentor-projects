@@ -1,0 +1,8 @@
+/* Page style */
+@import url(/css/page.css);
+
+/* Global reset */
+@import url(/css/global.css);
+
+/* Font e colors */
+@import url(/css/fontAndColor.css);

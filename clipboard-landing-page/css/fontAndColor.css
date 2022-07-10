@@ -1,0 +1,48 @@
+:root {
+  --strong-cian: hsl(171, 66%, 44%);
+  --light-blue: hsl(233, 100%, 69%);
+  --dark-grayish: hsl(210, 10%, 33%);
+  --grayish: hsl(201, 11%, 66%);
+  --white: #fff;
+}
+
+.title-g,
+.title-m,
+.title-p {
+  font-weight: 600;
+  color: var(--dark-grayish);
+  margin-bottom: 20px;
+}
+
+.text-g,
+.text-m,
+.text-p {
+  font-weight: 400;
+  color: var(--grayish);
+  line-height: 1.5;
+  word-spacing: 5px;
+}
+
+.title-g {
+  font-size: 3rem;
+}
+
+.text-g {
+  font-size: 20px;
+}
+
+.title-m {
+  font-size: 2rem;
+}
+
+.text-m {
+  font-size: 18px;
+}
+
+.title-p {
+  font-size: 1.5rem;
+}
+
+.text-p {
+  font-size: 16px;
+}
